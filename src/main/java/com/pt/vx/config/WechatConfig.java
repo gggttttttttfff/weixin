@@ -50,8 +50,8 @@ public class WechatConfig {
         ));
 
          userList.add(getUser(
-                "oFTEU6VJS1Othyvu0Cqvu9_bYihY", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "rh5O4XEh3xA6q3QYZsvj3CnR8IuTxlFIxLcJiXXdMw4", //要给这个人发送的模板ID
+                "oEVvH3KnOpJp2XAdDgZsBtrhUmPk", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "XweRGJKgfP-J7QZlVoyyWmZI8bjFm2M8xDL0L35eRnc", //要给这个人发送的模板ID
                 "棚子", //咋称呼这个人
                 "广西柳州鱼峰区", //这个人的详细地址
                 "柳州", //这个人在的城市
