@@ -11,13 +11,13 @@ public class WechatConfig {
      * 你的微信的APPID
      * appId
      */
-    public static final String VxAppId = "wx859f84780854b146";
+    public static final String VxAppId = "wxf41cb85bbc355fa2";
 
     /**
      * 你的微信的密钥
      * appSecret
      */
-    public static final String VxAppSecret = "fea2ab549542839623113045191fa9b5";
+    public static final String VxAppSecret = "fbf0b391484b9cf5dcf760546682d1bb";
 
     public static final List<User> userList = new ArrayList<>();
 
@@ -38,7 +38,7 @@ public class WechatConfig {
      */
     static {
         userList.add(getUser(
-                "oFTEU6fZmdLP8tn6wAdnKTykWXo4", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "oEVvH3KnOpJp2XAdDgZsBtrhUmPk", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "XweRGJKgfP-J7QZlVoyyWmZI8bjFm2M8xDL0L35eRnc", //要给这个人发送的模板ID
                 "棚子", //咋称呼这个人
                 "广西柳州鱼峰区", //这个人的详细地址
